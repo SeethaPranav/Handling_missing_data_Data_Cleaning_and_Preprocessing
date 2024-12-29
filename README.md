@@ -6,6 +6,7 @@ The objective of the project is to design and implement a robust data preprocess
 Handling missing values. Managing outliers. Resolving inconsistent formatting. Mitigating noise in the data. The ultimate goal is to enhance the quality, reliability, and usefulness of the data for machine learning applications.
 
 Tasks Performed
+
 The notebook contains around 30 code cells. Based on their content, the tasks likely include:
 
 Importing required libraries and loading the dataset.
